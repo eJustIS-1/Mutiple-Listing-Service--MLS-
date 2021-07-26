@@ -33,7 +33,7 @@ Important part of the project are as follows:
 
 * Singleton Cache is a design pattern which are general, reusable pieces of code to help solve common problems with a given context.
 
-* In this singleton design patter, the code creates cache to store the data that is recieved, and if the same data is asked to be used again, instead of going through
+* In this singleton design pattern, the code creates cache to store the data that is recieved, and if the same data is asked to be used again, instead of going through
 the entire process again, the cache can be used to retrieve the data in less time. 
 
 * So, thanks to this design pattern, the project becomes faster and faster after the searches are done. Therefore, performance has increased. 
